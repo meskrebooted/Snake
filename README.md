@@ -1,10 +1,10 @@
 # Snake 🐍🍎
 
 ## Autore
-Adam Meskaoui
+- Adam Meskaoui
 
 ## Versione
-Indev 1.0
+- Indev 1.0
 
 ## Descrizione
 
