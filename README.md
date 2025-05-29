@@ -3,8 +3,7 @@
 ## Autore
 Adam Meskaoui
 
-## Versione
-## v1.0.0
+## Versione: v1.0.0
 
 ## Descrizione
 
