@@ -8,7 +8,7 @@ Adam Meskaoui
 
 ## Descrizione
 
-Questo progetto consiste nella realizzazione del gioco **"Snake"** in ambiente console utilizzando **C#**. Il gioco include un sistema di gestione dei punteggi (CRUD), che permette all'utente di:
+Questo progetto consiste nella realizzazione del gioco **"Snake"** in ambiente console utilizzando **C#**. Il gioco include un sistema di gestione dei punteggi ([CRUD](https://it.wikipedia.org/wiki/CRUD)), che permette all'utente di:
 
 - Salvare il punteggio al termine della partita.
 - Visualizzare tutti i punteggi salvati.
