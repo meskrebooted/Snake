@@ -15,7 +15,7 @@ Questo progetto consiste nella realizzazione del gioco **"Snake"** in ambiente c
 - Eliminare un punteggio specifico.
 
 L'interfaccia è completamente testuale e si adatta dinamicamente alla finestra della console. L'utente può scegliere la velocità del gioco tra tre opzioni.
-
+ 
 > **Fonte Snake originale:**  
 > [dotnet-console-games/Snake](https://github.com/dotnet/dotnet-console-games)
 
