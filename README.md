@@ -3,7 +3,7 @@
 ## Autore
 Adam Meskaoui
 
-## Versione: v1.0.0
+## Versione: Indev 1.0
 
 ## Descrizione
 
