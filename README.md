@@ -1,4 +1,4 @@
-# Snake
+# Snake 🐍🍎
 
 ## Autore
 Adam Meskaoui
