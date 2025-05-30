@@ -21,7 +21,7 @@
 Questo progetto consiste nella realizzazione del gioco **"Snake"** in ambiente console utilizzando **C#**.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/meskrebooted/Snake/snakgame.png" width="500" alt="Screenshot gameplay Snake" />
+  <img src="https://github.com/meskrebooted/Snake/blob/main/snakgame.png?raw=true" width="500" alt="Screenshot gameplay Snake" />
   <br>
   <sub>Sostituisci questa immagine con una screenshot reale del gioco!</sub>
 </div>
