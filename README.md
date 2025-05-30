@@ -23,7 +23,6 @@ Questo progetto consiste nella realizzazione del gioco **"Snake"** in ambiente c
 <div align="center">
   <img src="https://github.com/meskrebooted/Snake/blob/main/snakgame.png?raw=true" width="500" alt="Screenshot gameplay Snake" />
   <br>
-  <sub>Sostituisci questa immagine con una screenshot reale del gioco!</sub>
 </div>
 
 Il gioco include un sistema di gestione dei punteggi ([CRUD](https://it.wikipedia.org/wiki/CRUD)), che permette all'utente di:
